@@ -21,11 +21,8 @@
 </br>
 
 
-[![Lavanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ladechan)](https://github.com/ladechan/github-readme-stats)
-
-
 <p align="center" >  
   <a href="https://github.com/ladechan/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=ladechan&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=ladechan&&show_icons=true&theme=gruvbox"/>
   </a>
   </p>
