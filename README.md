@@ -1,9 +1,6 @@
-### Hi there 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ladechan.ladechan)
-
 <h1 align="center">❤ Lavanya Deivaa ❤</h1>
 <h4 align="center">Seeking Entry level opportunity as Data Scientist/Machine Learning Engineer</h3>
-<h4 align="center">CEGian 2020 batch</h3>
+<h4 align="center">CEGian 2020 batch ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ladechan.ladechan)</h3>
 
 <img hight="500" width="600" alt="GIF" align="right" src="https://media.giphy.com/media/UYzNgRSTf9X1e/giphy.gif">
 
