@@ -5,7 +5,7 @@
 <h4 align="center">Seeking Entry level opportunity as Data Scientist/Machine Learning Engineer</h3>
 <h4 align="center">CEGian 2020 batch</h3>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/UYzNgRSTf9X1e/giphy.gif">
+<img hight="500" width="600" alt="GIF" align="right" src="https://media.giphy.com/media/UYzNgRSTf9X1e/giphy.gif">
 <br>
 <br>
 
