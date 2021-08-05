@@ -28,7 +28,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ladechan)](https://github.com/ladechan/github-readme-stats)
 <br>
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools:
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -55,5 +55,8 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=ladechan&&show_icons=true&theme=tokyonight"/>
   </a>
  </p>
+
+### Contact:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
