@@ -60,4 +60,5 @@
 <a href="https://www.linkedin.com/in/lavanya-deivaa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+[<img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white">](https://www.quora.com/profile/Lavanya-Deivaa) 
 
