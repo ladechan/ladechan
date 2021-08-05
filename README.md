@@ -3,6 +3,7 @@
 <h1 align="center">❤ Lavanya Deivaa ❤</h1>
 <h4 align="center">Seeking Entry level opportunity as Data Scientist/Machine Learning Engineer</h3>
 <h4 align="center">CEGian 2020 batch</h3>
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" align="center"></h2>
 
 - 🔭 I’m currently working on Improving myself 
 - 🌱 I’m currently learning Machine learning algorithms
