@@ -1,10 +1,14 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ladechan.ladechan)
+
 
 <h1 align="center">❤ Lavanya Deivaa ❤</h1>
 <h4 align="center">Seeking Entry level opportunity as Data Scientist/Machine Learning Engineer</h3>
 <h4 align="center">CEGian 2020 batch</h3>
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/UYzNgRSTf9X1e/giphy.gif">
+<br>
+<br>
 
 - 🔭 I’m currently working on Improving myself 
 - 🌱 I’m currently learning Machine learning algorithms
@@ -19,13 +23,16 @@
 - ✨ Watching Anime
 - ✨ Reading Mangas
 - ✨ Playing online games
-</br>
-
+<br>
 
 <p align="center" >  
   <a href="https://github.com/ladechan/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=ladechan&&show_icons=true&theme=tokyonight"/>
   </a>
+  </p>
+  
+ <p align="center" >  
+ https://github-readme-stats.vercel.app/api/top-langs/?username={ladechan}
   </p>
   
 
