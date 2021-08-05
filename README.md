@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi there👋, I'm Sreelakshmi(my parents call me Megha)</h1>
+<h1 align="center">Hi there👋</h1>
 <h4 align="center">Seeking Entry level opportunity as Data Scientist/Machine Learning Engineer</h3>
 <h4 align="center">CEGian 2020 batch</h3>
 
