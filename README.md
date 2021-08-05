@@ -10,8 +10,8 @@
 - 👯 I’m looking to collaborate on anything that would help me learn
 - 🤔 I’m looking for help with career advice?
 - 💬 Ask me about anything intersting
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<!-- - 📫 How to reach me: ...
+- 😄 Pronouns: ... -->
 - ⚡ Fun fact: One  of the caziest person on earth
 -->
 
