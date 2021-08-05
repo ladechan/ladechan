@@ -18,7 +18,6 @@
 - ✨ Watching Anime
 - ✨ Reading Mangas
 - ✨ Playing online games
-<br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ladechan)](https://github.com/ladechan/github-readme-stats)
 <br>
