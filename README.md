@@ -25,11 +25,13 @@
 - ✨ Playing online games
 <br>
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ladechan)](https://github.com/ladechan/github-readme-stats)
+<br>
+
 <p align="center" >  
   <a href="https://github.com/ladechan/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=ladechan&&show_icons=true&theme=tokyonight"/>
   </a>
-
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ladechan)](https://github.com/ladechan/github-readme-stats)
  </p>
+
+
