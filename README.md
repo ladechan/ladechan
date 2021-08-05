@@ -6,8 +6,6 @@
 <h4 align="center">CEGian 2020 batch</h3>
 
 <img hight="500" width="600" alt="GIF" align="right" src="https://media.giphy.com/media/UYzNgRSTf9X1e/giphy.gif">
-<br>
-<br>
 
 ### - Into :
 - 🔭 I’m currently working on Improving myself 
@@ -82,7 +80,6 @@
 <a href="https://www.hackerearth.com/@magiclover1505">
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue">
 </a>
-
 
 
 ### Gaming:
