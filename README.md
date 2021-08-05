@@ -29,10 +29,7 @@
   <a href="https://github.com/ladechan/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=ladechan&&show_icons=true&theme=tokyonight"/>
   </a>
-  </p>
-  
- <p align="center" >  
- https://github-readme-stats.vercel.app/api/top-langs/?username={ladechan}
-  </p>
-  
 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ladechan)](https://github.com/ladechan/github-readme-stats)
+ </p>
