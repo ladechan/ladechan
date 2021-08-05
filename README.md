@@ -9,6 +9,12 @@
 - 🌱 I’m currently learning Machine learning algorithms
 - ⚡ Fun fact: One  of the caziest person on earth
 
+<p align="center" >  
+  <a href="https://github.com/ladechan/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=ladechan&&show_icons=true&theme=gruvbox"/>
+  </a>
+  </p>
+  
 ### - Learning :
 - ✨  Machine Learning Algorithms 
 - ✨  Data Structures & Algorithms
@@ -21,8 +27,4 @@
 </br>
 
 
-<p align="center" >  
-  <a href="https://github.com/ladechan/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=ladechan&&show_icons=true&theme=gruvbox"/>
-  </a>
-  </p>
+
