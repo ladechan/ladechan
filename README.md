@@ -13,6 +13,7 @@
 
 ### - Learning :
 - ✨  Machine Learning Algorithms 
+- ✨  NLP
 - ✨  Data Structures & Algorithms
 
 ### - Hobbies : 
@@ -78,11 +79,4 @@
 <a href="https://www.hackerearth.com/@magiclover1505">
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue">
 </a>
-
-
-### Gaming:
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
