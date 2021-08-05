@@ -10,7 +10,7 @@
 - ⚡ Fun fact: One  of the caziest person on earth
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://giphy.com/embed/6xjDbUE8lpuImjvsOo/video">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/UYzNgRSTf9X1e/giphy.gif">
 
 ### - Learning :
 - ✨  Machine Learning Algorithms 
