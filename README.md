@@ -6,10 +6,16 @@
 
 - 🔭 I’m currently working on Improving myself 
 - 🌱 I’m currently learning Machine learning algorithms
-- 👯 I’m looking to collaborate on anything that would help me learn
-- 🤔 I’m looking for help with career advice?
-- 💬 Ask me about anything intersting
 - ⚡ Fun fact: One  of the caziest person on earth
 
-<!-- - 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+### - Learning :
+- ✨  Machine Learning Algorithms 
+- ✨  Data Structures & Algorithms
+
+### - Hobbies : 
+- ✨ Watching Tv series (Any language 👻)
+- ✨ Watching Anime
+- ✨ Reading Mangas
+- ✨ Playing online games
+
+</br>
