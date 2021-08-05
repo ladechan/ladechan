@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**ladechan/ladechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there👋, I'm Sreelakshmi(my parents call me Megha)</h1>
+<h4 align="center">Seeking Entry level opportunity as Data Scientist/Machine Learning Engineer</h3>
+<h4 align="center">CEGian 2020 batch</h3>
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
